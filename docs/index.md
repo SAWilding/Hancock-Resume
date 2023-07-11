@@ -30,7 +30,7 @@ __Church of Jesus Christ of Latter Day Saints__, Remote
 - Sustained the uptime and update management of over 1500 SQL servers
 - Co-wrote a script to encrypt all production SQL servers
 - Prepped and scheduled an OU and AD group migration saving the company thousands in licensing fees
-- Redistributed space to Virtual machines
+- Optimized resource allocation, increasing virtual machine utilization by X%.
 
 ### IT Support Technician
 
